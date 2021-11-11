@@ -4,7 +4,7 @@
 ## latihan pertama
 memasukan kode input a dan b lalu masukan juga kode maks nya <p>
 print a dan b lalu masukan kode if dan else seperti digambar ini <p>
-![gambar 1](sspemrog/sss11.png)
+![gambar 1](screenshot/sss11.png)
 lalu ketik print terbesarnya <p>
 kemudian di run. dan hasilnya akan jadi seperti ini <p>
 ![gambar 2](sspemrog/ss111.png)
